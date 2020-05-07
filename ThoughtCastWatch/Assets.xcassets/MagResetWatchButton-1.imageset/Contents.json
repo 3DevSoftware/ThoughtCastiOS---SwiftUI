@@ -1,0 +1,17 @@
+{
+  "images" : [
+    {
+      "idiom" : "watch",
+      "filename" : "MagResetWatchButton.png",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "template-rendering-intent" : "original",
+    "auto-scaling" : "auto"
+  }
+}

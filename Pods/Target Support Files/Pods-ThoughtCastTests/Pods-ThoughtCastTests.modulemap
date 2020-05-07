@@ -1,0 +1,6 @@
+framework module Pods_ThoughtCastTests {
+  umbrella header "Pods-ThoughtCastTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

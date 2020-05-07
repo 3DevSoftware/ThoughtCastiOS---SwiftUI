@@ -1,0 +1,6 @@
+framework module Pods_ThoughtCast {
+  umbrella header "Pods-ThoughtCast-umbrella.h"
+
+  export *
+  module * { export * }
+}
